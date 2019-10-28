@@ -5,7 +5,7 @@ from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 class WalletBot:
     message = None
     bot = None
-    bot_token = "1069035802:AAHtn_vdeHOvFxG4l8Amo_BEvCWrB7bmx-8"
+    bot_token = "BOT_TOKEN
     payload = False
     function = None
     payload_values = []
